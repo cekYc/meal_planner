@@ -1,0 +1,448 @@
+[
+    {
+        "id": 1,
+        "ad": "Menemen",
+        "aciklama": "Türk mutfağının klasik kahvaltılık yemeği. Pratik ve lezzetli.",
+        "talimatlar": "1. Soğanı ince doğrayın ve zeytinyağında kavurun.\n2. Biberleri ekleyip 2-3 dakika kavurun.\n3. Domatesleri küp küp doğrayıp ekleyin.\n4. Domatesler suyunu salıp çekene kadar pişirin.\n5. Yumurtaları çırpıp karışımın üzerine dökün.\n6. Tuz ve karabiber ekleyin.\n7. Yumurtalar pişene kadar karıştırarak pişirin.\n8. Sıcak servis edin.",
+        "sure": 15,
+        "porsiyon": 2,
+        "resim": "https:\/\/media.istockphoto.com\/id\/2210390459\/photo\/turkish-menemen-omelet-in-a-frying-pan.webp?a=1&b=1&s=612x612&w=0&k=20&c=uPLAVjy-USMyDusDbfXxyCLvmTaNO-SZQTlp1qHTS7s=",
+        "malzemeler": [
+            {
+                "ad": "yumurta",
+                "miktar": "3 adet"
+            },
+            {
+                "ad": "domates",
+                "miktar": "2 adet"
+            },
+            {
+                "ad": "biber",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "soğan",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "zeytinyağı",
+                "miktar": "2 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "karabiber",
+                "miktar": "Bir tutam"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 2,
+        "ad": "Tavuk Sote",
+        "aciklama": "Pratik ve lezzetli bir akşam yemeği. Pilav veya makarna ile servis edilebilir.",
+        "talimatlar": "1. Tavuk göğsünü küp küp doğrayın.\n2. Tavukları tereyağı ve sıvı yağda kavurun.\n3. Tavuklar pembeliğini kaybedince soğanı ekleyin.\n4. Soğan pembeleşince biberleri ekleyin.\n5. 2-3 dakika sonra domatesleri ekleyin.\n6. Tuz, karabiber ve pul biber ekleyin.\n7. Kısık ateşte 15 dakika pişirin.\n8. Pilav veya makarna ile servis edin.",
+        "sure": 30,
+        "porsiyon": 4,
+        "resim": "https:\/\/plus.unsplash.com\/premium_photo-1664475934279-2631a25c42ce?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHN0aXItZnJ5fGVufDB8fDB8fHww",
+        "malzemeler": [
+            {
+                "ad": "tavuk göğsü",
+                "miktar": "500 gr"
+            },
+            {
+                "ad": "domates",
+                "miktar": "2 adet"
+            },
+            {
+                "ad": "biber",
+                "miktar": "2 adet"
+            },
+            {
+                "ad": "soğan",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "tereyağı",
+                "miktar": "2 yemek kaşığı"
+            },
+            {
+                "ad": "sıvı yağ",
+                "miktar": "2 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "karabiber",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "kırmızı pul biber",
+                "miktar": "1 tatlı kaşığı"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 3,
+        "ad": "Fesleğenli Domates Soslu Makarna",
+        "aciklama": "İtalyan mutfağının vazgeçilmezi. Basit ama çok lezzetli.",
+        "talimatlar": "1. Makarnayı tuzlu suda haşlayın.\n2. Domatesleri rendeleyin veya blenderden geçirin.\n3. Sarımsağı ince doğrayın.\n4. Zeytinyağında sarımsağı kavurun.\n5. Domates püresini ekleyin.\n6. Tuz ve fesleğen ekleyip 10 dakika pişirin.\n7. Haşlanmış makarnayı sosla karıştırın.\n8. Üzerine rendelenmiş kaşar serpin.\n9. Sıcak servis edin.",
+        "sure": 25,
+        "porsiyon": 4,
+        "resim": "https:\/\/images.unsplash.com\/photo-1659561158823-464b9ad7588b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGFzdGElMjB3aXRoJTIwQmFzaWwlMjBhbmQlMjBUb21hdG8lMjBTYXVjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "malzemeler": [
+            {
+                "ad": "makarna",
+                "miktar": "500 gr"
+            },
+            {
+                "ad": "domates",
+                "miktar": "3 adet"
+            },
+            {
+                "ad": "sarımsak",
+                "miktar": "3 diş"
+            },
+            {
+                "ad": "zeytinyağı",
+                "miktar": "3 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "fesleğen",
+                "miktar": "5-6 yaprak"
+            },
+            {
+                "ad": "kaşar peyniri",
+                "miktar": "100 gr"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 4,
+        "ad": "Çıtır Patates Kızartması",
+        "aciklama": "Hem çocukların hem de yetişkinlerin favorisi. Yanında ketçap veya mayonezle servis edilir.",
+        "talimatlar": "1. Patatesleri soyun ve çubuk çubuk doğrayın.\n2. Soğuk suda bekletin (15 dakika).\n3. İyice kurulayın.\n4. Bol sıvı yağda kızartın.\n5. İlk kızartmada patatesleri hafif pembeleşene kadar kızartın.\n6. Çıkarıp dinlendirin.\n7. Yağı tekrar kızdırın ve ikinci kez kızartın.\n8. Altın sarısı olunca çıkarın.\n9. Kağıt havlu üzerinde yağını süzdürün.\n10. Tuzlayıp sıcak servis edin.",
+        "sure": 30,
+        "porsiyon": 4,
+        "resim": "https:\/\/images.unsplash.com\/photo-1541592106381-b31e9677c0e5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZWQlMjBwb3RhdG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+        "malzemeler": [
+            {
+                "ad": "patates",
+                "miktar": "4 adet"
+            },
+            {
+                "ad": "sıvı yağ",
+                "miktar": "Kızartmak için"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 5,
+        "ad": "Mercimek Çorbası",
+        "aciklama": "Türk mutfağının en sevilen çorbalarından biri. Besleyici ve doyurucu.",
+        "talimatlar": "1. Soğanı ince doğrayıp tereyağında kavurun.\n2. Havuç ve patatesi küp şeklinde doğrayın.\n3. Mercimek, havuç ve patatesi soğana ekleyin.\n4. Üzerini geçecek kadar su ekleyin.\n5. Sebzeler yumuşayana kadar pişirin (20-25 dakika).\n6. Blenderdan geçirin.\n7. Kıvamını su ile ayarlayın.\n8. Tuz ekleyin.\n9. 5 dakika daha kaynatın.\n10. Limon sıkarak sıcak servis edin.",
+        "sure": 35,
+        "porsiyon": 4,
+        "resim": "https:\/\/images.unsplash.com\/photo-1642497394078-4794e837019c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVudGlsJTIwc291cHxlbnwwfHwwfHx8MA%3D%3D",
+        "malzemeler": [
+            {
+                "ad": "kırmızı mercimek",
+                "miktar": "1 su bardağı"
+            },
+            {
+                "ad": "soğan",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "havuç",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "patates",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "tereyağı",
+                "miktar": "2 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "su",
+                "miktar": "6 su bardağı"
+            },
+            {
+                "ad": "limon",
+                "miktar": "1 adet"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 6,
+        "ad": "Peynirli Omlet",
+        "aciklama": "Hızlı ve pratik bir kahvaltılık. 5 dakikada hazır!",
+        "talimatlar": "1. Yumurtaları bir kaseye kırın.\n2. Süt, tuz ve karabiberi ekleyin.\n3. Çırpıcı ile iyice çırpın.\n4. Peyniri rendeleyin.\n5. Tavayı kızdırın ve tereyağını eritin.\n6. Yumurta karışımını dökün.\n7. Üzerine rendelenmiş peyniri serpin.\n8. Alt tarafı pişince spatula ile katına.\n9. Her iki tarafı da pişene kadar bekleyin.\n10. Sıcak servis edin.",
+        "sure": 10,
+        "porsiyon": 2,
+        "resim": "https:\/\/media.istockphoto.com\/id\/1048121658\/photo\/scrambled-eggs-or-omelette-made-from-eggs-and-cheese-with-herbs.webp?a=1&b=1&s=612x612&w=0&k=20&c=xhnGisEErH4pOLsX_tUhflZhHqIYYtl9bovhrdklkWs=",
+        "malzemeler": [
+            {
+                "ad": "yumurta",
+                "miktar": "3 adet"
+            },
+            {
+                "ad": "süt",
+                "miktar": "2 yemek kaşığı"
+            },
+            {
+                "ad": "kaşar peyniri",
+                "miktar": "50 gr"
+            },
+            {
+                "ad": "tereyağı",
+                "miktar": "1 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "karabiber",
+                "miktar": "Bir tutam"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 7,
+        "ad": "Yeşil Salata",
+        "aciklama": "Taze ve sağlıklı. Her öğünün yanında servis edilebilir.",
+        "talimatlar": "1. Marulu yıkayıp doğrayın.\n2. Domatesleri küp küp doğrayın.\n3. Salatalığı dilimleyin.\n4. Tüm sebzeleri geniş bir kaseye alın.\n5. Üzerine limon sıkın.\n6. Zeytinyağı ve tuz ekleyin.\n7. Karıştırıp servis edin.",
+        "sure": 10,
+        "porsiyon": 4,
+        "resim": "https:\/\/plus.unsplash.com\/premium_photo-1721397368144-658f15b7da4e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JlZW4lMjBzYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+        "malzemeler": [
+            {
+                "ad": "marul",
+                "miktar": "1 baş"
+            },
+            {
+                "ad": "domates",
+                "miktar": "2 adet"
+            },
+            {
+                "ad": "salatalık",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "limon",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "zeytinyağı",
+                "miktar": "3 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 8,
+        "ad": "Kuru Fasulye",
+        "aciklama": "Türk mutfağının en sevilen yemeklerinden. Pilav ve turşu ile servis edilir.",
+        "talimatlar": "1. Fasulyeleri bir gece önceden ıslak mendilde ıslatın.\n2. Haşlamak için tencereye alın, üzerini geçecek kadar su ekleyin.\n3. Yumuşayana kadar haşlayın (45-60 dakika).\n4. Soğanı doğrayıp yağda kavurun.\n5. Salçayı ekleyip kavurun.\n6. Domates ve biberleri ekleyin.\n7. Haşlanmış fasulyeleri süzüp ekleyin.\n8. Tuz ve karabiber ekleyin.\n9. Üzerine sıcak su ekleyin.\n10. Kısık ateşte 30 dakika pişirin.\n11. Pilav ile servis edin.",
+        "sure": 90,
+        "porsiyon": 4,
+        "resim": "https:\/\/plus.unsplash.com\/premium_photo-1661458218462-349bbfa566e4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHJ5JTIwYmVhbiUyMHNvdXB8ZW58MHx8MHx8fDA%3D",
+        "malzemeler": [
+            {
+                "ad": "kuru fasulye",
+                "miktar": "2 su bardağı"
+            },
+            {
+                "ad": "soğan",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "domates",
+                "miktar": "2 adet"
+            },
+            {
+                "ad": "biber",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "sıvı yağ",
+                "miktar": "3 yemek kaşığı"
+            },
+            {
+                "ad": "salça",
+                "miktar": "1 yemek kaşığı"
+            },
+            {
+                "ad": "tuz",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "karabiber",
+                "miktar": "Bir tutam"
+            },
+            {
+                "ad": "su",
+                "miktar": "4 su bardağı"
+            }
+        ],
+        "created_at": "2025-12-10 07:28:07"
+    },
+    {
+        "id": 9,
+        "ad": "Kuru Köfte",
+        "aciklama": "",
+        "talimatlar": "1. Yoğurma kabına kıyma, rendelenmiş soğan, ince kıyılmış maydanoz, yumurta, tuz,  pul biber, karabiber, kimyon, galeta unu ve sarımsağı alalım.\r\n2. Malzemeleri köfte harcı kıvamı alana kadar güzelce yoğuralım.\r\n3. Köfte harcımız hazır, şekillendirme aşamasına geçebiliriz. Harcımızdan bir parça koparalım ve avucumuzda yuvarlayıp bastırarak şeklini verelim. Resimde de görüldüğü gibi köfteler oldukça ince ve geniş görünüyor, ama piştiklerinde ortaya doğru çekiyor ve kalınlaşıyorlar. Size de mümkün olduğunca ince bir şekilde hazırlamanız tavsiye ederim, çünkü böylelikle içi daha iyi pişecektir.\r\n4. Şekillendirdiğimiz köfteleri bir tabağa dizelim.\r\n5. Köftelerimizi bu şekilde, eğer mümkünse, birkaç saat dinlenmeye bırakalım. Köfte harcı dinlendikçe daha da lezzetlenecektir.\r\n6. Köfteleri kızartmak için ızgara çizgili döküm tavayı hiç yağ eklemeden ısıtalım.\r\n7. Yeterince ısındıktan sonra köftelerimizi tavaya dizelim. Et yüksek ısıda piştiğinde çok daha lezzetli oluyor. İçindeki suyu salmadan, yumuşacık pişiyor. Bu nedenle sizlere de döküm tava kullanmanızı tavsiye ederim; fakat evinizde yoksa granit tavada da pişirebilirsiniz.\r\n8. Köftelerimizi çevirerek her iki tarafının da güzelce pişmesini sağlayalım.\r\n9. Ardından pişen köfteleri, havlu kağıt serili bir tabağa alalım. Yanında patates kızartması veya pilav eşliğinde servis edebilirsiniz.\r\n",
+        "sure": 25,
+        "porsiyon": 4,
+        "resim": "https:\/\/images.unsplash.com\/photo-1625242661157-e9e5708ffe5e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVhdGJhbGxzfGVufDB8fDB8fHww",
+        "malzemeler": [
+            {
+                "ad": "Kıyma",
+                "miktar": "500gr"
+            },
+            {
+                "ad": "Galeta Unu",
+                "miktar": "2yk"
+            },
+            {
+                "ad": "Yumurta",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "Soğan",
+                "miktar": "1 adet"
+            },
+            {
+                "ad": "Sarımsak",
+                "miktar": "2 diş"
+            },
+            {
+                "ad": "Kİmyon",
+                "miktar": "0,5 çk"
+            },
+            {
+                "ad": "Karabiber",
+                "miktar": "0,5 çk"
+            },
+            {
+                "ad": "Tuz",
+                "miktar": "1,5 çk"
+            },
+            {
+                "ad": "Pulbiber",
+                "miktar": "1 tk"
+            }
+        ],
+        "created_at": "2025-12-11 07:11:51"
+    },
+    {
+        "id": 10,
+        "ad": "Muhammara",
+        "aciklama": "",
+        "talimatlar": "1. Biberleri fırında közleyelim ya da hazır közlenmiş biber ile de yapabilirsiniz.\r\n2. Rondoya alıp diğer tüm malzemeleri ekleyelim.\r\n3. Robottan çekip servis tabağına alalım.\r\n4. Üzerine zeytinyağ gezdirip servis edelim.\r\n5. Artan muhammarayı kavanoza alıp üzerine zeytinyağ ilave edip buzdolabında saklayabilirsiniz. 1 hafta 10 gün içinde tüketebilirsiniz. Bozulma olmaz deneyeceklere afiyet olsun.\r\n",
+        "sure": 10,
+        "porsiyon": 6,
+        "resim": "https:\/\/media.istockphoto.com\/id\/2239556729\/photo\/bowl-of-muhammara-a-spicy-roasted-red-pepper-dip-filling-the-frame-from-above.webp?a=1&b=1&s=612x612&w=0&k=20&c=6Ovs6V5QUw92sCIdZprALFeHCVVQxZ78xWXF-UdaYX0=",
+        "malzemeler": [
+            {
+                "ad": "közlenmiş kırmızı biber",
+                "miktar": "4 adet"
+            },
+            {
+                "ad": "domates salçası",
+                "miktar": "1 yk"
+            },
+            {
+                "ad": "biber salçası",
+                "miktar": "1 yk"
+            },
+            {
+                "ad": "zeytinyağ",
+                "miktar": "1 çb"
+            },
+            {
+                "ad": "ceviz",
+                "miktar": "1 çb"
+            },
+            {
+                "ad": "galeta unu",
+                "miktar": "1 çb"
+            },
+            {
+                "ad": "nar ekşisi",
+                "miktar": "2 yk"
+            },
+            {
+                "ad": "sarımsak",
+                "miktar": "2 diş"
+            },
+            {
+                "ad": "karabiber",
+                "miktar": "1 çk"
+            },
+            {
+                "ad": "kimyon",
+                "miktar": "1 çk"
+            },
+            {
+                "ad": "Tuz",
+                "miktar": "yeteri kadar"
+            }
+        ],
+        "user_id": 1765368939,
+        "created_at": "2025-12-11 07:50:22"
+    },
+    {
+        "id": 11,
+        "ad": "Sucuklu Yumurta",
+        "aciklama": "",
+        "talimatlar": "1. tavaya yağ dök\r\n2. sucukları at\r\n3 .sucuklar piştikten sonra yumurtaları ekle\r\n4. bekle\r\n5. karıştır karıştır\r\n6. bitti",
+        "sure": 15,
+        "porsiyon": 1,
+        "resim": "",
+        "malzemeler": [
+            {
+                "ad": "yumurta",
+                "miktar": "istediğin kadar adet"
+            },
+            {
+                "ad": "sucuk",
+                "miktar": "istediğin kadar dilim"
+            },
+            {
+                "ad": "sıvı yağ",
+                "miktar": "istediğin kadar yağ"
+            }
+        ],
+        "user_id": 1765439501,
+        "created_at": "2025-12-11 11:02:34"
+    }
+]

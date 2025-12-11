@@ -1,0 +1,59 @@
+/* Auth Pages (Login/Register) Styles */
+
+.header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.header h1 {
+    font-size: 2.5em;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.forms-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.form-card {
+    background: var(--bg-primary);
+    padding: 40px;
+    border-radius: var(--border-radius-xl);
+    box-shadow: var(--shadow-xl);
+}
+
+.form-card h2 {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 25px;
+    text-align: center;
+    background: var(--primary-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.form-card .btn {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    .forms-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .form-card {
+        padding: 30px 20px;
+    }
+}
