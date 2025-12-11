@@ -2,7 +2,7 @@
 
 .subtitle {
     text-align: center;
-    color: white;
+    color: var(--text-secondary);
     font-size: 1.2em;
     margin-bottom: 40px;
     font-weight: 300;
